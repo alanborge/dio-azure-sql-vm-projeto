@@ -42,15 +42,6 @@ Este repositório contém a entrega do **Desafio de Projeto da DIO**: criação 
 
 ---
 
-## 📸 Evidências
-### Recursos criados no Azure
-![Recursos Azure](./imagens/recursos-azure.png)
-
-### Peering configurado
-![Peering VNets](./imagens/peering-vnets.png)
-
----
-
 ## 🔗 Links Úteis
 - [Documentação Azure Virtual Network Peering](https://learn.microsoft.com/pt-br/azure/virtual-network/virtual-network-peering-overview)
 - [Documentação Azure SQL](https://learn.microsoft.com/pt-br/azure/azure-sql/)
